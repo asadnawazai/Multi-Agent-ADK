@@ -40,8 +40,8 @@ The system implements a robust communication protocol between the parent agent a
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd Multiagent-Structure
+   git clone https://github.com/asadnawazai/Multi-Agent-ADK.git
+   cd Multi-Agent-ADK
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
